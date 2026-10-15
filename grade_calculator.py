@@ -1,3 +1,4 @@
+# Author : Muhammad Faizan Yasir
 # Grade Calculator
 # Calculates total marks, percentage, grade and pass/fail result.
 
